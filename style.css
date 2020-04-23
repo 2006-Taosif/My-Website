@@ -2,8 +2,9 @@
     color: #4682B4;
     }
  body{
+     font-family: sans-serif;
      color: #777777;
-     line-height: 26px;
+     line-height: 30px;
      }
 .half-width{
     width: 50%;
